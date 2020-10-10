@@ -1,1 +1,1 @@
-# Titanic-dataset +EDA
+# Titanic-dataset +EDA + model creation+ modeltuning
